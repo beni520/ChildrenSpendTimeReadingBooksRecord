@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 孩子每日看书花费时间记录
 
-You can use the [editor on GitHub](https://github.com/beni520/ChildrenSpendTimeReadingBooksRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每个孩子看书花费的时间经常会相差很大，有些孩子比较调皮不爱看书，每次看书不到几分钟就跑去玩了。这款应用可以帮助孩子记录每次看书的情况，计划安排看书的时间，实际看书的时间等信息。你还可以记录孩子看书的类型，以及看书时的状态和感受等，帮助家长监督让孩子养成良好的看书习惯。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/ChildrenSpendTimeReadingBooksRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
